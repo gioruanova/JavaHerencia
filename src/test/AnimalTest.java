@@ -1,6 +1,5 @@
 package test;
 
-import practica.Felino;
 import practica.Gato;
 import practica.Leon;
 import practica.Perro;
