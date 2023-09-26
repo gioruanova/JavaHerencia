@@ -1,4 +1,4 @@
-package practica;
+package animales;
 
 public class Perro extends Canino{
 

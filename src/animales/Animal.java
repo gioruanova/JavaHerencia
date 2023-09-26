@@ -1,4 +1,4 @@
-package practica;
+package animales;
 
 public abstract class Animal {
 	protected String tipoAnimal;

@@ -1,4 +1,4 @@
-package clasesPelota;
+package pelota;
 
 public class Basket extends Pelota {
 	

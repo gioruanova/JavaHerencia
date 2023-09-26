@@ -1,4 +1,4 @@
-package clasesPelota;
+package pelota;
 
 public  class Pelota {
 	public static final String PELOTAS_DISPONIBLES = "Hay pelotas para jugar";

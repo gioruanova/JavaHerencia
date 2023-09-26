@@ -1,8 +1,8 @@
-package test;
+package animalesTest;
 
-import practica.Gato;
-import practica.Leon;
-import practica.Perro;
+import animales.Gato;
+import animales.Leon;
+import animales.Perro;
 
 public class AnimalTest {
 

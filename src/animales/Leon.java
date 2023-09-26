@@ -1,4 +1,4 @@
-package practica;
+package animales;
 
 public class Leon extends Felino {
 	public Leon() {

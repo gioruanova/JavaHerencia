@@ -1,4 +1,8 @@
-package clasesPelota;
+package pelotaTest;
+
+import pelota.Basket;
+import pelota.Futbol;
+import pelota.Golf;
 
 public class PelotaTest {
 	public static void main(String[] args) {
